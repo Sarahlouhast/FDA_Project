@@ -1,5 +1,6 @@
-# FDA_Project
-Fundamentals of Data Analysis
-This is my project, by Sarah Hastings
+# FDA_Project - Fundamentals of Data Analysis
 
-test
+### Course: HDip in Computing in Data Analytics
+### Module:  Fundamentals of Data Analysis
+### Lecturer: Ian McLoughlin
+### Student: Sarah Hastings
